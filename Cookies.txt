@@ -1,4 +1,4 @@
 {
-    "grammarly_cookies": "Hello",
+    "grammarly_cookies": "{'inside': 'yournan'}",
     "allowed_users" : "milan.stock.trading0@gmail.com milan.white25@gmail.com t3chnive@gmail.com"
 }
